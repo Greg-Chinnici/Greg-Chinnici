@@ -1,3 +1,4 @@
 - Hi, I’m @Greg-Chinnici
 - I’m interested in game dev and cool tools
-- I’m currently learning unity, unreal, and how to make better games
+- Unity, Unreal, C++
+- Looking into shader art and graphics for fun
